@@ -1,0 +1,211 @@
+fase,rodada,descartada,formato,posicao,algoritmo,n_elementos,tempo_ms
+aquecimento,1,sim,QR-QI-ME,1,Quick Sort Recursivo,100000,94.063800
+aquecimento,1,sim,QR-QI-ME,2,Quick Sort Iterativo,100000,103.141900
+aquecimento,1,sim,QR-QI-ME,3,Merge Sort,100000,175.274500
+aquecimento,7,sim,QR-QI-ME,1,Quick Sort Recursivo,100000,101.860200
+aquecimento,7,sim,QR-QI-ME,2,Quick Sort Iterativo,100000,115.409100
+aquecimento,7,sim,QR-QI-ME,3,Merge Sort,100000,177.272100
+aquecimento,13,sim,QR-QI-ME,1,Quick Sort Recursivo,100000,91.874900
+aquecimento,13,sim,QR-QI-ME,2,Quick Sort Iterativo,100000,98.093600
+aquecimento,13,sim,QR-QI-ME,3,Merge Sort,100000,168.556900
+piloto,19,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,92.407100
+piloto,19,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.985900
+piloto,19,nao,QR-QI-ME,3,Merge Sort,100000,162.624500
+piloto,25,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,96.444200
+piloto,25,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,99.900500
+piloto,25,nao,QR-QI-ME,3,Merge Sort,100000,164.387000
+piloto,31,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,117.687800
+piloto,31,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,108.555000
+piloto,31,nao,QR-QI-ME,3,Merge Sort,100000,164.162500
+piloto,37,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,98.646300
+piloto,37,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.569600
+piloto,37,nao,QR-QI-ME,3,Merge Sort,100000,170.534800
+piloto,43,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,96.143100
+piloto,43,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.291400
+piloto,43,nao,QR-QI-ME,3,Merge Sort,100000,165.687100
+piloto,49,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,94.233200
+piloto,49,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.119300
+piloto,49,nao,QR-QI-ME,3,Merge Sort,100000,164.053800
+piloto,55,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,97.973800
+piloto,55,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,99.854100
+piloto,55,nao,QR-QI-ME,3,Merge Sort,100000,165.478500
+piloto,61,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,96.514300
+piloto,61,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,101.425500
+piloto,61,nao,QR-QI-ME,3,Merge Sort,100000,169.928600
+piloto,67,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,92.099700
+piloto,67,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,97.289700
+piloto,67,nao,QR-QI-ME,3,Merge Sort,100000,163.374100
+piloto,73,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.174700
+piloto,73,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.594800
+piloto,73,nao,QR-QI-ME,3,Merge Sort,100000,165.411100
+piloto,79,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,94.157900
+piloto,79,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.975800
+piloto,79,nao,QR-QI-ME,3,Merge Sort,100000,166.275400
+piloto,85,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,92.104900
+piloto,85,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,96.896600
+piloto,85,nao,QR-QI-ME,3,Merge Sort,100000,165.897800
+piloto,91,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,107.629900
+piloto,91,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,165.721500
+piloto,91,nao,QR-QI-ME,3,Merge Sort,100000,351.453300
+piloto,97,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,110.234400
+piloto,97,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,106.954200
+piloto,97,nao,QR-QI-ME,3,Merge Sort,100000,170.253000
+piloto,103,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,151.761300
+piloto,103,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,145.209400
+piloto,103,nao,QR-QI-ME,3,Merge Sort,100000,239.032800
+piloto,109,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,104.783200
+piloto,109,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,107.253800
+piloto,109,nao,QR-QI-ME,3,Merge Sort,100000,170.991800
+piloto,115,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,94.564200
+piloto,115,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,95.052100
+piloto,115,nao,QR-QI-ME,3,Merge Sort,100000,166.141900
+piloto,121,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,96.844600
+piloto,121,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.471700
+piloto,121,nao,QR-QI-ME,3,Merge Sort,100000,167.821700
+piloto,127,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,92.529300
+piloto,127,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,104.077600
+piloto,127,nao,QR-QI-ME,3,Merge Sort,100000,176.616000
+piloto,133,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,100.721000
+piloto,133,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,99.195100
+piloto,133,nao,QR-QI-ME,3,Merge Sort,100000,163.513100
+piloto,139,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.971600
+piloto,139,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.505700
+piloto,139,nao,QR-QI-ME,3,Merge Sort,100000,166.075200
+piloto,145,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.632600
+piloto,145,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,99.419400
+piloto,145,nao,QR-QI-ME,3,Merge Sort,100000,164.837000
+piloto,151,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.690200
+piloto,151,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,99.549700
+piloto,151,nao,QR-QI-ME,3,Merge Sort,100000,162.753700
+piloto,157,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,94.449300
+piloto,157,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.815500
+piloto,157,nao,QR-QI-ME,3,Merge Sort,100000,164.908600
+piloto,163,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.509400
+piloto,163,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,97.855300
+piloto,163,nao,QR-QI-ME,3,Merge Sort,100000,172.391100
+piloto,169,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.077600
+piloto,169,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,108.381000
+piloto,169,nao,QR-QI-ME,3,Merge Sort,100000,173.346300
+piloto,175,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.650400
+piloto,175,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,97.772000
+piloto,175,nao,QR-QI-ME,3,Merge Sort,100000,165.940300
+piloto,181,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,90.129700
+piloto,181,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,97.557700
+piloto,181,nao,QR-QI-ME,3,Merge Sort,100000,168.475900
+piloto,187,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,92.705400
+piloto,187,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,99.313800
+piloto,187,nao,QR-QI-ME,3,Merge Sort,100000,162.608500
+piloto,193,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.308600
+piloto,193,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,101.324400
+piloto,193,nao,QR-QI-ME,3,Merge Sort,100000,174.791100
+final,199,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.589800
+final,199,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.702900
+final,199,nao,QR-QI-ME,3,Merge Sort,100000,168.526300
+final,202,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,96.287100
+final,202,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,96.156900
+final,202,nao,QR-QI-ME,3,Merge Sort,100000,166.756300
+final,205,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,92.488400
+final,205,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.280800
+final,205,nao,QR-QI-ME,3,Merge Sort,100000,166.610900
+final,208,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,100.950000
+final,208,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.823700
+final,208,nao,QR-QI-ME,3,Merge Sort,100000,166.274600
+final,211,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.671100
+final,211,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.104700
+final,211,nao,QR-QI-ME,3,Merge Sort,100000,163.195700
+final,214,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.935300
+final,214,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.741500
+final,214,nao,QR-QI-ME,3,Merge Sort,100000,167.309600
+final,217,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,94.574900
+final,217,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.174600
+final,217,nao,QR-QI-ME,3,Merge Sort,100000,168.785000
+final,219,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,103.303100
+final,219,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,101.863400
+final,219,nao,QR-QI-ME,3,Merge Sort,100000,167.729200
+final,221,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.809600
+final,221,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,97.942200
+final,221,nao,QR-QI-ME,3,Merge Sort,100000,164.255900
+final,223,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.649200
+final,223,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.989200
+final,223,nao,QR-QI-ME,3,Merge Sort,100000,226.654500
+final,225,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,94.080000
+final,225,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,99.242200
+final,225,nao,QR-QI-ME,3,Merge Sort,100000,168.336900
+final,227,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,94.079200
+final,227,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.124100
+final,227,nao,QR-QI-ME,3,Merge Sort,100000,165.933600
+final,229,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,92.112400
+final,229,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.554600
+final,229,nao,QR-QI-ME,3,Merge Sort,100000,186.838700
+final,231,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.401500
+final,231,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,108.392100
+final,231,nao,QR-QI-ME,3,Merge Sort,100000,169.596100
+final,233,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,92.742800
+final,233,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.964900
+final,233,nao,QR-QI-ME,3,Merge Sort,100000,168.919700
+final,235,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.896400
+final,235,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,99.245000
+final,235,nao,QR-QI-ME,3,Merge Sort,100000,167.349300
+final,237,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.739200
+final,237,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.709100
+final,237,nao,QR-QI-ME,3,Merge Sort,100000,165.204500
+final,239,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.629900
+final,239,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,107.259800
+final,239,nao,QR-QI-ME,3,Merge Sort,100000,174.753300
+final,241,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,95.571000
+final,241,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,106.682100
+final,241,nao,QR-QI-ME,3,Merge Sort,100000,170.404500
+final,243,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,122.999700
+final,243,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,114.541700
+final,243,nao,QR-QI-ME,3,Merge Sort,100000,175.429600
+final,245,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,92.291300
+final,245,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,99.776400
+final,245,nao,QR-QI-ME,3,Merge Sort,100000,170.146900
+final,247,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,91.263900
+final,247,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.858000
+final,247,nao,QR-QI-ME,3,Merge Sort,100000,166.216700
+final,249,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,105.705900
+final,249,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,105.678400
+final,249,nao,QR-QI-ME,3,Merge Sort,100000,169.593100
+final,251,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,90.745900
+final,251,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,102.809000
+final,251,nao,QR-QI-ME,3,Merge Sort,100000,168.180200
+final,253,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.974300
+final,253,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,98.975500
+final,253,nao,QR-QI-ME,3,Merge Sort,100000,166.473100
+final,255,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,97.883400
+final,255,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,101.901400
+final,255,nao,QR-QI-ME,3,Merge Sort,100000,164.673400
+final,257,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,93.880000
+final,257,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,96.305700
+final,257,nao,QR-QI-ME,3,Merge Sort,100000,169.048000
+final,259,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,92.562100
+final,259,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,99.600800
+final,259,nao,QR-QI-ME,3,Merge Sort,100000,179.679100
+final,261,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,95.830700
+final,261,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.376000
+final,261,nao,QR-QI-ME,3,Merge Sort,100000,171.881800
+final,263,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,91.889400
+final,263,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,99.580800
+final,263,nao,QR-QI-ME,3,Merge Sort,100000,167.853400
+final,265,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,100.566900
+final,265,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,102.096900
+final,265,nao,QR-QI-ME,3,Merge Sort,100000,189.236200
+final,267,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,95.671200
+final,267,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.496200
+final,267,nao,QR-QI-ME,3,Merge Sort,100000,166.014500
+final,269,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,99.511200
+final,269,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,100.225100
+final,269,nao,QR-QI-ME,3,Merge Sort,100000,163.797000
+final,271,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,96.049900
+final,271,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,114.468000
+final,271,nao,QR-QI-ME,3,Merge Sort,100000,177.427100
+final,273,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,92.388600
+final,273,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,97.947800
+final,273,nao,QR-QI-ME,3,Merge Sort,100000,166.704900
+final,275,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,91.174100
+final,275,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,111.031400
+final,275,nao,QR-QI-ME,3,Merge Sort,100000,180.189400
+final,277,nao,QR-QI-ME,1,Quick Sort Recursivo,100000,102.232000
+final,277,nao,QR-QI-ME,2,Quick Sort Iterativo,100000,119.039900
+final,277,nao,QR-QI-ME,3,Merge Sort,100000,165.384100

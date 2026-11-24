@@ -1,0 +1,31 @@
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Cache do Jupyter
+.ipynb_checkpoints/
+
+# Configuracoes locais do Claude Code
+.claude/
+
+# Arquivos gerados pelo LaTeX e BibTeX
+relatorio/*.aux
+relatorio/*.bbl
+relatorio/*.blg
+relatorio/*.log
+relatorio/*.out
+relatorio/*.toc
+relatorio/*.fls
+relatorio/*.fdb_latexmk
+relatorio/*.synctex.gz
+relatorio/*.dvi
+
+# Saidas de terminal geradas durante a compilacao
+relatorio/*.txt
+
+# Material da disciplina (enunciado e notebook do professor)
+Trabalho-2-analise-ordenacao.pdf
+AnaliseExperimentosListas_ADA.ipynb
+
+# Grafo de conhecimento (graphify)
+graphify-out/

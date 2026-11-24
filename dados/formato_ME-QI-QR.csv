@@ -1,0 +1,100 @@
+fase,rodada,descartada,formato,posicao,algoritmo,n_elementos,tempo_ms
+aquecimento,6,sim,ME-QI-QR,1,Merge Sort,100000,162.221000
+aquecimento,6,sim,ME-QI-QR,2,Quick Sort Iterativo,100000,96.044600
+aquecimento,6,sim,ME-QI-QR,3,Quick Sort Recursivo,100000,94.807600
+aquecimento,12,sim,ME-QI-QR,1,Merge Sort,100000,162.499900
+aquecimento,12,sim,ME-QI-QR,2,Quick Sort Iterativo,100000,101.012500
+aquecimento,12,sim,ME-QI-QR,3,Quick Sort Recursivo,100000,94.753500
+aquecimento,18,sim,ME-QI-QR,1,Merge Sort,100000,161.938500
+aquecimento,18,sim,ME-QI-QR,2,Quick Sort Iterativo,100000,101.670000
+aquecimento,18,sim,ME-QI-QR,3,Quick Sort Recursivo,100000,94.615700
+piloto,24,nao,ME-QI-QR,1,Merge Sort,100000,162.984300
+piloto,24,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,96.621900
+piloto,24,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,94.936100
+piloto,30,nao,ME-QI-QR,1,Merge Sort,100000,173.989200
+piloto,30,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,112.191300
+piloto,30,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,107.865700
+piloto,36,nao,ME-QI-QR,1,Merge Sort,100000,185.998300
+piloto,36,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,114.148100
+piloto,36,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,102.212200
+piloto,42,nao,ME-QI-QR,1,Merge Sort,100000,179.175400
+piloto,42,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,103.881600
+piloto,42,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,94.734400
+piloto,48,nao,ME-QI-QR,1,Merge Sort,100000,175.480800
+piloto,48,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,96.281800
+piloto,48,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,94.087900
+piloto,54,nao,ME-QI-QR,1,Merge Sort,100000,165.898500
+piloto,54,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,112.318200
+piloto,54,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,97.179900
+piloto,60,nao,ME-QI-QR,1,Merge Sort,100000,174.361700
+piloto,60,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,105.520300
+piloto,60,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,96.676700
+piloto,66,nao,ME-QI-QR,1,Merge Sort,100000,164.906000
+piloto,66,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,97.375900
+piloto,66,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,92.098700
+piloto,72,nao,ME-QI-QR,1,Merge Sort,100000,164.665200
+piloto,72,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,96.524900
+piloto,72,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,92.250500
+piloto,78,nao,ME-QI-QR,1,Merge Sort,100000,163.982200
+piloto,78,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,98.159100
+piloto,78,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,93.612900
+piloto,84,nao,ME-QI-QR,1,Merge Sort,100000,166.186600
+piloto,84,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,98.425100
+piloto,84,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,93.854200
+piloto,90,nao,ME-QI-QR,1,Merge Sort,100000,165.387200
+piloto,90,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,108.931300
+piloto,90,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,101.245400
+piloto,96,nao,ME-QI-QR,1,Merge Sort,100000,193.062200
+piloto,96,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,122.589300
+piloto,96,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,101.432600
+piloto,102,nao,ME-QI-QR,1,Merge Sort,100000,199.952800
+piloto,102,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,123.135000
+piloto,102,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,126.737400
+piloto,108,nao,ME-QI-QR,1,Merge Sort,100000,166.809300
+piloto,108,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,105.137700
+piloto,108,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,99.333700
+piloto,114,nao,ME-QI-QR,1,Merge Sort,100000,168.697400
+piloto,114,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,98.749200
+piloto,114,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,93.477700
+piloto,120,nao,ME-QI-QR,1,Merge Sort,100000,165.451600
+piloto,120,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,99.661900
+piloto,120,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,95.766700
+piloto,126,nao,ME-QI-QR,1,Merge Sort,100000,166.719200
+piloto,126,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,114.910200
+piloto,126,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,93.217600
+piloto,132,nao,ME-QI-QR,1,Merge Sort,100000,173.738600
+piloto,132,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,102.513700
+piloto,132,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,99.469700
+piloto,138,nao,ME-QI-QR,1,Merge Sort,100000,160.052500
+piloto,138,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,100.050000
+piloto,138,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,93.316000
+piloto,144,nao,ME-QI-QR,1,Merge Sort,100000,163.512100
+piloto,144,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,98.147500
+piloto,144,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,96.656300
+piloto,150,nao,ME-QI-QR,1,Merge Sort,100000,169.419500
+piloto,150,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,97.611300
+piloto,150,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,92.312000
+piloto,156,nao,ME-QI-QR,1,Merge Sort,100000,167.748700
+piloto,156,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,118.240900
+piloto,156,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,96.113600
+piloto,162,nao,ME-QI-QR,1,Merge Sort,100000,179.502200
+piloto,162,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,99.062200
+piloto,162,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,97.588900
+piloto,168,nao,ME-QI-QR,1,Merge Sort,100000,166.616900
+piloto,168,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,100.698700
+piloto,168,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,93.937900
+piloto,174,nao,ME-QI-QR,1,Merge Sort,100000,163.468100
+piloto,174,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,104.758500
+piloto,174,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,92.084500
+piloto,180,nao,ME-QI-QR,1,Merge Sort,100000,164.501100
+piloto,180,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,98.767700
+piloto,180,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,94.454900
+piloto,186,nao,ME-QI-QR,1,Merge Sort,100000,165.236900
+piloto,186,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,102.054900
+piloto,186,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,91.069000
+piloto,192,nao,ME-QI-QR,1,Merge Sort,100000,164.751600
+piloto,192,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,99.342900
+piloto,192,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,91.105600
+piloto,198,nao,ME-QI-QR,1,Merge Sort,100000,166.361100
+piloto,198,nao,ME-QI-QR,2,Quick Sort Iterativo,100000,98.134700
+piloto,198,nao,ME-QI-QR,3,Quick Sort Recursivo,100000,90.990000
